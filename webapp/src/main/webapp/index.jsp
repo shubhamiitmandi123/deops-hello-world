@@ -1,6 +1,6 @@
-q<form action="action_page.php">
+<form action="action_page.php">
   <div class="container">
-    <h1>New from ansible Playbook user Register for DevOps Learning</h1>
+    <h1>New from ansible on Kubernates  Playbook user Register for DevOps Learning</h1>
     <p>Please dont fill in this form to create an account.</p>
     <hr>
      
